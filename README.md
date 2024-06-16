@@ -8,18 +8,22 @@ Machine Learning & Software Engineering
 <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%2312100E.svg?logo=javascript&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
 <a target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-%2312100E.svg?logo=C&style=for-the-badge&logoColor=yellow"/></a> 
-<a target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-%2312100E.svg?logo=Java&style=for-the-badge&logoColor=yellow"/></a> 
+<a target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a> 
 <a target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%2312100E.svg?logo=typescript&style=for-the-badge&logoColor=yellow"/></a> 
-
-
+<a target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%2312100E.svg?logo=html5&style=for-the-badge&logoColor=yellow"/></a> 
+<a target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%2312100E.svg?logo=css3&style=for-the-badge&logoColor=yellow"/></a>
+<a target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 
 </p>
 <h3>⚒ Tools I use:</h3>
 <p>
-<a target="_blank"><img alt="SQLite Server" src="https://img.shields.io/badge/SQLite%20Server-%2312100E.svg?logo=-sqlite-server&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a> 
+<a target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a> 
+
+
 </p>
 
 <h3 >Find me on</h3>
