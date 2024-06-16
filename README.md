@@ -1,5 +1,12 @@
 ![giphy](https://github.com/Haxodrat/Haxodrat/assets/88154342/7e7a092a-4977-4a20-80f6-9521ecdf20b5)
 
+<h3 align="center">Find me on</h3>
+<p align="center"><a 
+href="https://github.com/Haxodrat" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
+href="https://www.linkedin.com/in/ckim259/" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
+
 <!--
 **Haxodrat/Haxodrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
