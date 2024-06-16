@@ -1,5 +1,8 @@
 ![giphy](https://github.com/Haxodrat/Haxodrat/assets/88154342/7e7a092a-4977-4a20-80f6-9521ecdf20b5)
 
+<h3> Aspirations:</h3>
+Machine Learning & Software Engineering
+
 <h3>📄 Languages:</h3>
 <p>
 <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%2312100E.svg?logo=javascript&logoColor=red&style=for-the-badge"/></a> 
