@@ -1,5 +1,7 @@
 ![giphy](https://github.com/Haxodrat/Haxodrat/assets/88154342/7e7a092a-4977-4a20-80f6-9521ecdf20b5)
 
+![](https://komarev.com/ghpvc/?username=Haxodrat&color=blueviolet&style=plastic)
+
 <h3> About Me:</h3>
 - 👋 Hi, I'm Chris! I'm a full-stack/software developer and an AI enthusiast.
 - 🎓 BS in CS & DS '26 at UC Berkeley | Go Bears!
