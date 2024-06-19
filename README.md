@@ -65,6 +65,7 @@
       <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel"/>
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jest-092E20?style=flat-square&logo=jest&logoColor=white"/>
     </td>
   </tr>
   <tr>
