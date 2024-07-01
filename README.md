@@ -54,6 +54,7 @@
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-A14141?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
   
