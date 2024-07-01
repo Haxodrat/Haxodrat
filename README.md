@@ -4,7 +4,9 @@
 
 <h3> About Me:</h3>
 - 👋 Hi, I'm Chris! I'm a full-stack/software developer and an AI enthusiast.
+<br>
 - 🎓 BS in CS & DS '26 at UC Berkeley | Go Bears!
+<br>
 - 👑 Hackathon Overall Winner
 
 <h3> ⚡ Languages and Frameworks </h3>
