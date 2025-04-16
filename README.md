@@ -5,13 +5,13 @@
 <h3> About Me:</h3>
 - 👋 Hi, I'm Chris! I'm a full-stack/software developer and an AI enthusiast.
 <br>
-- Amazon SDE Intern
+- 💻 Amazon SDE Intern
 <br>
 - 🎓 BA in Computer Science & Data Science '26 at UC Berkeley | Go Bears!
 <br>
 - 👑 Hackathon Overall Winner
 <br>
-- I binge Stackoverflow and tutorials.
+- 👨🏻‍💻 I binge Stackoverflow and tutorials.
 
 <h3> ⚡ Languages and Frameworks </h3>
 <table>
